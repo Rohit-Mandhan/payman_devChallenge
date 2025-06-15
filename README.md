@@ -108,9 +108,8 @@ Challenge Theme: *"Build AI-powered finance tools with real-world impact."*
 
 ## 👤 Author
 
-**Your Name**
-\[LinkedIn or GitHub Link]
-Email: \[[your.email@example.com](mailto:rohitmandhan2222@gmail.com)]
+**Rohit Mandhan**
+Email: \[[rohitmandhan2222@gmail.com](mailto:rohitmandhan2222@gmail.com)]
 
 ---
 
